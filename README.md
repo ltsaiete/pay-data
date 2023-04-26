@@ -26,3 +26,33 @@ dept: the department that the employee is working on -  ['Operations' 'Managemen
 seniority: the seniority level of an employee, from 1 to 5
 basePay: the base salary of the employee
 bonus: the bonus an employee will get based on the other attributes, this is our target variable.
+
+## :rocket: Technologies
+I used these technologies to build this project:
+* [Python](https://www.python.org/)
+* [Pandas](https://pandas.pydata.org/)
+
+## How to contribute
+
+- Open an issue describing your feature suggestion or bug fix
+- fork this repo
+- Create a new branch with your feature
+- Commit your changes
+- Open a PR with these changes
+
+After your PR has been merged, you can delete your branch.
+
+## :memo: License
+This project is under the GPL-3.0 license. check the file [LICENSE](LICENSE) for details.
+
+---
+<p align="center">
+Made by Luis Saiete.
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/ltsaiete" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/twitter.svg" alt="ltsaiete" width="20" height="20" /></a>
+  <a href="https://www.linkedin.com/in/ltsaiete/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/linkedin.svg" alt="ltsaiete" width="20" height="20" /></a>
+  <a href="https://instagram.com/ltsaiete/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/instagram.svg" alt="ltsaiete" width="20" height="20" /></a>
+  <a href="https://fb.com/ltsaiete/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.14.0/icons/facebook.svg" alt="ltsaiete" width="20" height="20" /></a>
+</p>
